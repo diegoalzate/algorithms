@@ -1,6 +1,6 @@
 export class GeneticAlgorithm {
     generate(length: number) {
-      // TODO: Implement the generate method
+      // TODO: Implement the  method
     }
   
     select(population: string[], fitnesses: number[]) {
